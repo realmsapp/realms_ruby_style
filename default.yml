@@ -263,7 +263,7 @@ Lint/UselessRuby2Keywords: # new in 1.23
 Lint/RefinementImportMethods: # new in 1.27
   Enabled: true
 
-Gemspec/DateAssignment: # new in 1.10
+Gemspec/Gemspec/DeprecatedAttributeAssignment: # new in 1.10
   Enabled: true
 Gemspec/RequireMFA: # new in 1.23
   Enabled: true
